@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
-    println("Hello World")
+    println(add(1,2))
 }
 
 fun add(a: Int, b: Int): Int {
-    return a + b;
+    return a + b
 }
